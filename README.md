@@ -1,4 +1,4 @@
-           Hi,I' M MEHMET ALİ YILDIZ
+        Hi,I' M MEHMET ALİ YILDIZ
            
            
 ABOUT ME:
@@ -9,8 +9,8 @@ ABOUT ME:
 
 PLEASE VİSİT MY:
 
-BLOG : http://mehmetali.pythonanywhere.com 
-LİNKEDİN : https://www.linkedin.com/in/mehmet-aliii
+-BLOG : http://mehmetali.pythonanywhere.com 
+-LİNKEDİN : https://www.linkedin.com/in/mehmet-aliii
 
 
 
