@@ -24,4 +24,8 @@ FOR CONNECTİON:
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=lckhndleup&show_icons=true&theme=radical)
 
 
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+
 
