@@ -11,6 +11,7 @@ FOR CONNECTİON:
 
 -BLOG : http://mehmetali.pythonanywhere.com 
 -LİNKEDİN : https://www.linkedin.com/in/mehmet-aliii
+![<İkon ismi>](https://img.shields.io/badge/<Buton üzerinde bulunacak metin>-<Buton rengi>?style=for-the-badge&logo=<İkon ismş>&logoColor=<Logo rengi>)
 
 
 
