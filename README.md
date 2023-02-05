@@ -20,8 +20,6 @@ FOR CONNECTİON:
 
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=lckhndleup&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=lckhndleup&show_icons=true&theme=radical)
 
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mehmet-aliii#gh-light-mode-only)
