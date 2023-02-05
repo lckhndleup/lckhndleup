@@ -1,6 +1,13 @@
         Hi,I' M MEHMET ALİ YILDIZ
-           
-           
+         
+         
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mehmet-aliii#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mehmet-aliii#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+
+
+
 ABOUT ME:
 
 -  I’m currently learning and making new projects on JavaScript and Python.  
@@ -22,8 +29,6 @@ FOR CONNECTİON:
 
 
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mehmet-aliii#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mehmet-aliii#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 
 
