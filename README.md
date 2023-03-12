@@ -16,9 +16,11 @@
 
 ABOUT ME:
 
+-  I’m currently learning React NodeJS.
 -  I’m currently learning and making new projects on JavaScript and Python.  
 -  I graduated from Akdeniz unıversty as a Electric Electronic Engineer
 -  My master degree continue in Remote Sensing and GIS at Akdeniz Universty.
+
 
 
 
