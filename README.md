@@ -2,8 +2,8 @@
  
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](http://mehmetali.pythonanywhere.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](http://mehmetali.pythonanywhere.com/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://ecommarceappreact.netlify.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://ecommarceappreact.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mehmet-aliii#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mehmet-aliii#gh-dark-mode-only)
