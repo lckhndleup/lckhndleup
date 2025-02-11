@@ -16,8 +16,8 @@
 
 ABOUT ME:
 
--  FrontEnd Developer
--  React JS
+-  Software Developer
+-  React JS & React Native
 -  Gradueated from Electric & Electronic Engineering , Akdeniz Universty. 
 -  Master degree : Remote Sensing and GIS , Akdeniz Universty.
 
