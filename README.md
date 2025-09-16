@@ -8,9 +8,6 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mehmet-aliii#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mehmet-aliii#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/maliyildiz__/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/maliyildiz__/#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/lckhndleup)](https://github.com/lckhndleup) 
 
 
