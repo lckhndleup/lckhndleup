@@ -132,9 +132,10 @@
 
 </div>
 
-<div align="center" style="background: linear-gradient(135deg, #000000 0%, #001100 50%, #000000 100%); padding: 25px; border-radius: 15px; margin: 20px 0; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-image: url('https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif'); opacity: 0.3; background-size: cover;"></div>
-  <div style="position: relative; z-index: 1;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=%7C+React+Native+Developer+%7C;%7C+Next.js+Engineer+%7C;%7C+Frontend+Architect+%7C;%7C+Mobile+App+Enthusiast+%7C;%7C+TypeScript+Lover+%7C;%7C+Always+Learning+%26+Building+%7C;%7C+Innovation+Seeker+%7C;%7C+Matrix+Code+Rain+%7C" alt="Matrix Typing Animation" style="text-shadow: 0 0 10px #00FF00;" />
-  </div>
+<div align="center" style="background-color: #000000; padding: 30px; border-radius: 15px; border: 2px solid #00FF41;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=18&pause=800&color=00FF41&center=true&vCenter=true&width=650&height=120&lines=%E2%96%88%E2%96%88%20R+e+a+c+t++N+a+t+i+v+e++D+e+v+e+l+o+p+e+r%20%E2%96%88%E2%96%88;%E2%96%88%E2%96%88%20N+e+x+t+.+j+s++E+n+g+i+n+e+e+r%20%E2%96%88%E2%96%88;%E2%96%88%E2%96%88%20F+r+o+n+t+e+n+d++A+r+c+h+i+t+e+c+t%20%E2%96%88%E2%96%88;%E2%96%88%E2%96%88%20M+o+b+i+l+e++A+p+p++E+n+t+h+u+s+i+a+s+t%20%E2%96%88%E2%96%88;%E2%96%88%E2%96%88%20T+y+p+e+S+c+r+i+p+t++L+o+v+e+r%20%E2%96%88%E2%96%88;%E2%96%88%E2%96%88%20A+l+w+a+y+s++L+e+a+r+n+i+n+g++%26++B+u+i+l+d+i+n+g%20%E2%96%88%E2%96%88;%E2%96%88%E2%96%88%20I+n+n+o+v+a+t+i+o+n++S+e+e+k+e+r%20%E2%96%88%E2%96%88" alt="Matrix Style Animation"/>
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </div>
