@@ -1,6 +1,6 @@
 # 👋 Hi, I'm <span style="color:#32CD32">Mehmet Ali Yıldız</span>
 
-<h3 align="center">🚀 React Native & React.JS & Next.js Developer | Software Engineer</h3>
+<h3 align="center">🚀 React Native & Next.js Developer | Software Engineer</h3>
 
 ---
 
