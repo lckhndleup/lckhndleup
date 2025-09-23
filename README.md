@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#32CD32">Mehmet Ali Yıldız</span></h1>
-<h3 align="center">🚀 React Native & Next.js Developer | Software Engineer</h3>
+# 👋 Hi, I'm <span style="color:#32CD32">Mehmet Ali Yıldız</span>
+
+<h3 align="center">🚀 React Native & React.JS & Next.js Developer | Software Engineer</h3>
 
 ---
 
@@ -21,7 +22,7 @@
 ## 👨‍💻 About Me
 - 💡 Passionate about **Mobile & Web App Development**  
 - 🎓 Graduate: **Electric & Electronic Engineering**, Akdeniz University  
-- 🎓 Master’s Degree: **Remote Sensing & GIS**, Akdeniz University  
+- 🎓 Master's Degree: **Remote Sensing & GIS**, Akdeniz University  
 - ⚡ Focus: React Native, Next.js, TypeScript, Scalable Systems  
 
 ---
@@ -45,9 +46,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lckhndleup&show_icons=true&theme=radical&hide_border=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lckhndleup&theme=radical&hide_border=true" height="160" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lckhndleup&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🌟 Words of Wisdom
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=E74C3C&center=true&vCenter=true&width=800&height=80&lines=The+greatest+appreciation+in+life+is+to+be+trusted%3B+the+greatest+success+is+to+be+worthy+of+that+trust.;We+need+nothing%3B+we+need+only+to+be+hardworking.;Peace+at+home%2C+peace+in+the+world.;Sovereignty+unconditionally+belongs+to+the+nation.;Science+is+the+truest+guide+in+life.;Teachers%3A+the+new+generation+will+be+your+masterpiece.;The+one+who+loves+his+country+most+is+the+one+who+performs+his+duty+best.;Victory+belongs+to+those+who+can+say+'Victory+is+mine.'+Success+belongs+to+those+who+begin+by+saying+'I+will+succeed'+and+end+by+saying+'I+have+succeeded.';Freedom+and+independence+are+my+character.;A+nation+devoid+of+art+has+lost+one+of+its+vital+lifelines.;Everything+we+see+in+the+world+is+the+creative+work+of+women.;To+see+me+does+not+necessarily+mean+to+see+my+face%3B+to+understand+my+ideas+is+to+see+me.;The+future+is+in+the+skies.;Culture+is+the+foundation+of+the+Republic.;A+nation+that+does+not+know+its+past+cannot+build+its+future.;The+Turkish+nation+is+intelligent+and+hardworking.;The+basis+of+victory+is+determination.;My+mortal+body+will+turn+to+dust%2C+but+the+Republic+of+Turkey+will+stand+forever.;Our+great+ideal+is+to+raise+our+nation+to+the+level+of+contemporary+civilization.;Happy+is+the+one+who+says%2C+'I+am+a+Turk.'" alt="Atatürk Quotes" />
+</p>
+<p align="center" style="font-style: italic; color: #888; margin-top: 10px;">
+  <strong>Mustafa Kemal Atatürk</strong>
 </p>
 
 ---
