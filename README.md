@@ -132,6 +132,9 @@
 
 </div>
 
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=React+Native+Developer;Next.js+Engineer;Frontend+Architect;Mobile+App+Enthusiast;TypeScript+Lover;Always+Learning+%26+Building;Innovation+Seeker" alt="Typing Animation" />
+<div align="center" style="background: linear-gradient(135deg, #000000 0%, #001100 50%, #000000 100%); padding: 25px; border-radius: 15px; margin: 20px 0; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-image: url('https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif'); opacity: 0.3; background-size: cover;"></div>
+  <div style="position: relative; z-index: 1;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=%7C+React+Native+Developer+%7C;%7C+Next.js+Engineer+%7C;%7C+Frontend+Architect+%7C;%7C+Mobile+App+Enthusiast+%7C;%7C+TypeScript+Lover+%7C;%7C+Always+Learning+%26+Building+%7C;%7C+Innovation+Seeker+%7C;%7C+Matrix+Code+Rain+%7C" alt="Matrix Typing Animation" style="text-shadow: 0 0 10px #00FF00;" />
+  </div>
 </div>
