@@ -1,96 +1,167 @@
-# 👋 Hi, I'm <span style="color:#32CD32">Mehmet Ali Yıldız</span>
+# <div align="center">Hi there, I'm <span style="color:#00D4FF; text-shadow: 0 0 10px #00D4FF;">Mehmet Ali Yıldız</span> 👋</div>
 
-<h3 align="center">🚀 React Native & Next.js Developer | Software Engineer</h3>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://ecommarceappreact.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌍 Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mehmet-aliii" target="_blank">
-    <img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/lckhndleup" target="_blank">
-    <img src="https://img.shields.io/badge/🐙 GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <h3 style="color: #888; font-weight: 300;">React Native & Next.js Developer | Software Engineer</h3>
+</div>
 
 ---
 
-## 👨‍💻 About Me
-- 💡 Passionate about **Mobile & Web App Development**  
-- 🎓 Graduate: **Electric & Electronic Engineering**, Akdeniz University  
-- 🎓 Master's Degree: **Remote Sensing & GIS**, Akdeniz University  
-- ⚡ Focus: React Native, Next.js, TypeScript, Scalable Systems  
+<div align="center">
+
+## Connect With Me
+
+<a href="https://ecommarceappreact.netlify.app" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=FF6B6B&color=FF6B6B" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mehmet-aliii" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00A0DC" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/lckhndleup" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=333333&color=666666" alt="GitHub"/>
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" title="Sass"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code"/>
-</p>
+<div align="center">
+
+## About Me
+
+</div>
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+  <p align="center" style="color: white; font-size: 16px; line-height: 1.8;">
+    💡 <strong>Passionate</strong> about Mobile & Web App Development<br>
+    🎓 <strong>Graduate:</strong> Electric & Electronic Engineering, Akdeniz University<br>
+    🎓 <strong>Master's Degree:</strong> Remote Sensing & GIS, Akdeniz University<br>
+    ⚡ <strong>Focus:</strong> React Native, Next.js, TypeScript, Scalable Systems
+  </p>
+</div>
 
 ---
 
-## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lckhndleup&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lckhndleup&theme=radical&hide_border=true" height="160" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lckhndleup&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
+<div align="center">
+
+## Tech Stack
+
+</div>
+
+<div align="center" style="background: #1a1a1a; padding: 30px; border-radius: 20px; margin: 20px 0;">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+        <br><strong style="color: #61DAFB;">React Native</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
+        <br><strong style="color: white;">Next.js</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
+        <br><strong style="color: #3178C6;">TypeScript</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+        <br><strong style="color: #F7DF1E;">JavaScript</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="60" height="60"/>
+        <br><strong style="color: #000020;">Expo</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" width="60" height="60"/>
+        <br><strong style="color: white;">Vercel</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="60" height="60"/>
+        <br><strong style="color: #00C7B7;">Netlify</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="60"/>
+        <br><strong style="color: #CC6699;">Sass</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🌟 Words of Wisdom
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=E74C3C&center=true&vCenter=true&width=800&height=80&lines=The+greatest+appreciation+in+life+is+to+be+trusted%3B+the+greatest+success+is+to+be+worthy+of+that+trust.;We+need+nothing%3B+we+need+only+to+be+hardworking.;Peace+at+home%2C+peace+in+the+world.;Sovereignty+unconditionally+belongs+to+the+nation.;Science+is+the+truest+guide+in+life.;Teachers%3A+the+new+generation+will+be+your+masterpiece.;The+one+who+loves+his+country+most+is+the+one+who+performs+his+duty+best.;Victory+belongs+to+those+who+can+say+'Victory+is+mine.'+Success+belongs+to+those+who+begin+by+saying+'I+will+succeed'+and+end+by+saying+'I+have+succeeded.';Freedom+and+independence+are+my+character.;A+nation+devoid+of+art+has+lost+one+of+its+vital+lifelines.;Everything+we+see+in+the+world+is+the+creative+work+of+women.;To+see+me+does+not+necessarily+mean+to+see+my+face%3B+to+understand+my+ideas+is+to+see+me.;The+future+is+in+the+skies.;Culture+is+the+foundation+of+the+Republic.;A+nation+that+does+not+know+its+past+cannot+build+its+future.;The+Turkish+nation+is+intelligent+and+hardworking.;The+basis+of+victory+is+determination.;My+mortal+body+will+turn+to+dust%2C+but+the+Republic+of+Turkey+will+stand+forever.;Our+great+ideal+is+to+raise+our+nation+to+the+level+of+contemporary+civilization.;Happy+is+the+one+who+says%2C+'I+am+a+Turk.'" alt="Atatürk Quotes" />
-</p>
-<p align="center" style="font-style: italic; color: #888; margin-top: 10px;">
-  <strong>Mustafa Kemal Atatürk</strong>
-</p>
+<div align="center">
+
+## GitHub Insights
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lckhndleup&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lckhndleup&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" height="200" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lckhndleup&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" height="300"/>
+</div>
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lckhndleup&theme=matrix&margin-w=10&margin-h=10&no-frame=true&column=6" alt="Trophies" />
-</p>
+<div align="center">
+
+## Words of Wisdom
+
+</div>
+
+<div style="background: linear-gradient(135deg, #FF6B6B 0%, #FF8E53 100%); padding: 25px; border-radius: 15px; margin: 20px 0;">
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=FFFFFF&center=true&vCenter=true&width=900&height=80&lines=The+greatest+appreciation+in+life+is+to+be+trusted%3B+the+greatest+success+is+to+be+worthy+of+that+trust.;We+need+nothing%3B+we+need+only+to+be+hardworking.;Peace+at+home%2C+peace+in+the+world.;Sovereignty+unconditionally+belongs+to+the+nation.;Science+is+the+truest+guide+in+life.;Teachers%3A+the+new+generation+will+be+your+masterpiece.;The+one+who+loves+his+country+most+is+the+one+who+performs+his+duty+best.;Victory+belongs+to+those+who+can+say+'Victory+is+mine.'+Success+belongs+to+those+who+begin+by+saying+'I+will+succeed'+and+end+by+saying+'I+have+succeeded.';Freedom+and+independence+are+my+character.;A+nation+devoid+of+art+has+lost+one+of+its+vital+lifelines.;Everything+we+see+in+the+world+is+the+creative+work+of+women.;To+see+me+does+not+necessarily+mean+to+see+my+face%3B+to+understand+my+ideas+is+to+see+me.;The+future+is+in+the+skies.;Culture+is+the+foundation+of+the+Republic.;A+nation+that+does+not+know+its+past+cannot+build+its+future.;The+Turkish+nation+is+intelligent+and+hardworking.;The+basis+of+victory+is+determination.;My+mortal+body+will+turn+to+dust%2C+but+the+Republic+of+Turkey+will+stand+forever.;Our+great+ideal+is+to+raise+our+nation+to+the+level+of+contemporary+civilization.;Happy+is+the+one+who+says%2C+'I+am+a+Turk.'" alt="Atatürk Quotes" />
+  </p>
+  <p align="center" style="color: white; font-style: italic; font-weight: bold; margin-top: 15px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+    ~ Mustafa Kemal Atatürk
+  </p>
+</div>
 
 ---
 
-## 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lckhndleup&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
-</p>
+<div align="center">
+
+## Contribution Activity
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lckhndleup&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B" alt="Activity Graph" />
+</div>
 
 ---
 
-## 🎬 Dynamic Animations
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F39C12&center=true&vCenter=true&width=500&lines=React+Native+Developer;Next.js+Engineer;Frontend+Architect;Always+Learning+%26+Building" alt="Typing Animation" />
-</p>
+<div align="center">
+
+## Who I Am?
+
+</div>
+
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=React+Native+Developer;Next.js+Engineer;Frontend+Architect;Mobile+App+Enthusiast;TypeScript+Lover;Always+Learning+%26+Building;Innovation+Seeker" alt="Typing Animation" />
+</div>
 
 ---
 
-## 💡 Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-</p>
+<div align="center">
+
+## Currently Listening To
+
+</div>
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31iykpgnktx4lyfl2eugwpmkj5mq&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&border_color=00D4FF" alt="Spotify Now Playing" />
+</div>
 
 ---
 
-## 🎶 Fun Section
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31iykpgnktx4lyfl2eugwpmkj5mq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" alt="Spotify Now Playing" />
-</p>
+<div align="center" style="margin-top: 40px;">
+  <img src="https://komarev.com/ghpvc/?username=lckhndleup&style=for-the-badge&color=00D4FF" alt="Profile Views"/>
+</div>
