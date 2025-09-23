@@ -128,40 +128,10 @@
 
 <div align="center">
 
-## Contribution Activity
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lckhndleup&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B" alt="Activity Graph" />
-</div>
-
----
-
-<div align="center">
-
 ## Who I Am?
 
 </div>
 
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; margin: 20px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=React+Native+Developer;Next.js+Engineer;Frontend+Architect;Mobile+App+Enthusiast;TypeScript+Lover;Always+Learning+%26+Building;Innovation+Seeker" alt="Typing Animation" />
-</div>
-
----
-
-<div align="center">
-
-## Currently Listening To
-
-</div>
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31iykpgnktx4lyfl2eugwpmkj5mq&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&border_color=00D4FF" alt="Spotify Now Playing" />
-</div>
-
----
-
-<div align="center" style="margin-top: 40px;">
-  <img src="https://komarev.com/ghpvc/?username=lckhndleup&style=for-the-badge&color=00D4FF" alt="Profile Views"/>
 </div>
