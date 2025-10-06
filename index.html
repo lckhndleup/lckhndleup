@@ -1,0 +1,500 @@
+<!-- 1st section start - STUNNING NEW HERO -->
+<div id="main">
+  <div id="hero" class="jenesis-hero-new">
+    <div class="hero-background-wrapper">
+      <!-- Animated Background -->
+      <div class="hero-bg-overlay"></div>
+      <video class="hero-video" autoplay muted loop playsinline>
+        <source src="images/steam-bg.mp4" type="video/mp4">
+      </video>
+      <div class="hero-particles" id="hero-particles"></div>
+      
+      <!-- Main Hero Content -->
+      <div class="hero-content-wrapper">
+        <div class="hero-content-inner">
+          
+          <!-- Badge -->
+          <div class="hero-badge fade-in-up" style="animation-delay: 0.2s;">
+            <span class="badge-text">1984'ten Bugüne</span>
+          </div>
+          
+          <!-- Main Title -->
+          <h1 class="hero-main-title">
+            <span class="title-line fade-in-up" style="animation-delay: 0.4s;">
+              <span class="title-word">JENESIS</span>
+            </span>
+            <span class="title-line fade-in-up" style="animation-delay: 0.6s;">
+              <span class="title-word-small">Buhar Jeneratörleri</span>
+            </span>
+          </h1>
+          
+          <!-- Subtitle -->
+          <p class="hero-subtitle fade-in-up" style="animation-delay: 0.8s;">
+            Geleceğin kazan dairelerine hoşgeldiniz.<br>
+            Endüstriyel buhar çözümlerinde 40 yıllık mükemmellik.
+          </p>
+          
+          <!-- CTA Buttons -->
+          <div class="hero-cta-group fade-in-up" style="animation-delay: 1s;">
+            <a href="products.html" class="hero-btn hero-btn-primary">
+              <span>Ürünlerimizi Keşfedin</span>
+              <i class="fa fa-arrow-right"></i>
+            </a>
+            <a href="contact.html" class="hero-btn hero-btn-secondary">
+              <span>İletişime Geçin</span>
+              <i class="fa fa-phone"></i>
+            </a>
+          </div>
+          
+          <!-- Stats -->
+          <div class="hero-stats fade-in-up" style="animation-delay: 1.2s;">
+            <div class="stat-item">
+              <div class="stat-number">40+</div>
+              <div class="stat-label">Yıllık Tecrübe</div>
+            </div>
+            <div class="stat-divider"></div>
+            <div class="stat-item">
+              <div class="stat-number">50.000</div>
+              <div class="stat-label">kg/h Kapasite</div>
+            </div>
+            <div class="stat-divider"></div>
+            <div class="stat-item">
+              <div class="stat-number">98%</div>
+              <div class="stat-label">Verim</div>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+      
+      <!-- Scroll Indicator -->
+      <div class="scroll-indicator fade-in-up" style="animation-delay: 1.4s;">
+        <div class="scroll-icon">
+          <div class="scroll-wheel"></div>
+        </div>
+        <span class="scroll-text">Aşağı Kaydır</span>
+      </div>
+      
+    </div>
+  </div>
+</div>
+<!-- 1st section end -->
+
+<style>
+/* ============================================
+   JENESIS NEW HERO STYLES - PROFESSIONAL
+   ============================================ */
+
+.jenesis-hero-new {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  min-height: 600px;
+  overflow: hidden;
+  background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+}
+
+/* Background Video & Overlay */
+.hero-background-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.hero-video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  transform: translate(-50%, -50%);
+  opacity: 0.3;
+  object-fit: cover;
+}
+
+.hero-bg-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    135deg,
+    rgba(220, 83, 16, 0.15) 0%,
+    rgba(0, 0, 0, 0.8) 50%,
+    rgba(220, 83, 16, 0.1) 100%
+  );
+  z-index: 2;
+}
+
+/* Particles Effect */
+.hero-particles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+  pointer-events: none;
+}
+
+/* Content Wrapper */
+.hero-content-wrapper {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  padding: 0 20px;
+}
+
+.hero-content-inner {
+  max-width: 1200px;
+  text-align: center;
+}
+
+/* Badge */
+.hero-badge {
+  display: inline-block;
+  padding: 8px 20px;
+  background: rgba(220, 83, 16, 0.2);
+  border: 2px solid #dc5310;
+  border-radius: 30px;
+  margin-bottom: 30px;
+  backdrop-filter: blur(10px);
+}
+
+.badge-text {
+  font-family: 'Space Colony', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #ff6b35;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+/* Main Title */
+.hero-main-title {
+  margin: 0 0 30px 0;
+  line-height: 1.1;
+}
+
+.title-line {
+  display: block;
+  overflow: hidden;
+}
+
+title-word {
+  display: inline-block;
+  font-family: 'Space Colony', sans-serif;
+  font-size: clamp(4rem, 12vw, 9rem);
+  font-weight: 800;
+  color: #ffffff;
+  text-shadow: 0 0 80px rgba(220, 83, 16, 0.5),
+               0 0 40px rgba(220, 83, 16, 0.3);
+  letter-spacing: 0.05em;
+  background: linear-gradient(135deg, #ffffff 0%, #ff6b35 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+title-word-small {
+  display: inline-block;
+  font-family: 'Space Colony', sans-serif;
+  font-size: clamp(1.8rem, 4vw, 3.5rem);
+  font-weight: 600;
+  color: #ffffff;
+  letter-spacing: 0.1em;
+  margin-top: 10px;
+}
+
+/* Subtitle */
+.hero-subtitle {
+  font-family: 'Space Colony', sans-serif;
+  font-size: clamp(1rem, 2vw, 1.3rem);
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.6;
+  margin: 0 auto 40px;
+  max-width: 700px;
+}
+
+/* CTA Buttons */
+.hero-cta-group {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 60px;
+}
+
+.hero-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 16px 32px;
+  font-family: 'Space Colony', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+  border-radius: 50px;
+  transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-btn-primary {
+  background: linear-gradient(135deg, #dc5310 0%, #ff6b35 100%);
+  color: #ffffff;
+  border: 2px solid transparent;
+  box-shadow: 0 10px 40px rgba(220, 83, 16, 0.4);
+}
+
+.hero-btn-primary:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 15px 60px rgba(220, 83, 16, 0.6);
+}
+
+.hero-btn-primary i {
+  transition: transform 0.3s ease;
+}
+
+.hero-btn-primary:hover i {
+  transform: translateX(5px);
+}
+
+.hero-btn-secondary {
+  background: transparent;
+  color: #ffffff;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(10px);
+}
+
+.hero-btn-secondary:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.6);
+  transform: translateY(-3px);
+}
+
+/* Stats */
+.hero-stats {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.stat-item {
+  text-align: center;
+}
+
+.stat-number {
+  font-family: 'Space Colony', sans-serif;
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 800;
+  color: #ff6b35;
+  line-height: 1;
+  margin-bottom: 8px;
+}
+
+.stat-label {
+  font-family: 'Space Colony', sans-serif;
+  font-size: clamp(0.8rem, 1.5vw, 1rem);
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.7);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.stat-divider {
+  width: 1px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* Scroll Indicator */
+.scroll-indicator {
+  position: absolute;
+  bottom: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  z-index: 10;
+  cursor: pointer;
+}
+
+.scroll-icon {
+  width: 30px;
+  height: 50px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-radius: 20px;
+  position: relative;
+  animation: scroll-bounce 2s infinite;
+}
+
+.scroll-wheel {
+  width: 4px;
+  height: 10px;
+  background: #ff6b35;
+  border-radius: 2px;
+  position: absolute;
+  top: 8px;
+  left: 50%;
+  transform: translateX(-50%);
+  animation: scroll-wheel 2s infinite;
+}
+
+.scroll-text {
+  font-family: 'Space Colony', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.6);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+/* Animations */
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in-up {
+  animation: fade-in-up 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
+  opacity: 0;
+}
+
+@keyframes scroll-bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+}
+
+@keyframes scroll-wheel {
+  0% {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translateX(-50%) translateY(20px);
+  }
+}
+
+/* Particles Animation */
+@keyframes float-particle {
+  0%, 100% {
+    transform: translateY(0) translateX(0);
+  }
+  33% {
+    transform: translateY(-20px) translateX(10px);
+  }
+  66% {
+    transform: translateY(-10px) translateX(-10px);
+  }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero-cta-group {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .hero-btn {
+    width: 100%;
+    max-width: 300px;
+    justify-content: center;
+  }
+  
+  .hero-stats {
+    gap: 20px;
+  }
+  
+  .stat-divider {
+    display: none;
+  }
+  
+  .hero-badge {
+    padding: 6px 16px;
+  }
+  
+  .badge-text {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .jenesis-hero-new {
+    min-height: 500px;
+  }
+  
+  .hero-content-inner {
+    padding: 20px 0;
+  }
+  
+  .scroll-indicator {
+    bottom: 20px;
+  }
+}
+
+/* Particle Creation Script */
+</style>
+
+<script>
+// Create floating particles effect
+document.addEventListener('DOMContentLoaded', function() {
+  const particlesContainer = document.getElementById('hero-particles');
+  
+  if (particlesContainer) {
+    // Create 30 particles
+    for (let i = 0; i < 30; i++) {
+      const particle = document.createElement('div');
+      particle.style.position = 'absolute';
+      particle.style.width = Math.random() * 4 + 2 + 'px';
+      particle.style.height = particle.style.width;
+      particle.style.background = 'rgba(255, 107, 53, ' + (Math.random() * 0.3 + 0.1) + ')';
+      particle.style.borderRadius = '50%';
+      particle.style.left = Math.random() * 100 + '%';
+      particle.style.top = Math.random() * 100 + '%';
+      particle.style.animation = 'float-particle ' + (Math.random() * 10 + 5) + 's ease-in-out infinite';
+      particle.style.animationDelay = Math.random() * 5 + 's';
+      particle.style.boxShadow = '0 0 20px rgba(255, 107, 53, 0.5)';
+      
+      particlesContainer.appendChild(particle);
+    }
+  }
+  
+  // Smooth scroll for scroll indicator
+  const scrollIndicator = document.querySelector('.scroll-indicator');
+  if (scrollIndicator) {
+    scrollIndicator.addEventListener('click', function() {
+      const nextSection = document.getElementById('empty-white-page');
+      if (nextSection) {
+        nextSection.scrollIntoView({ behavior: 'smooth' });
+      }
+    });
+  }
+});
+</script>
